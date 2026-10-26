@@ -2,12 +2,12 @@
 design:
   theme: classic
   colors:
-    body: "rgb(0, 0, 0)"
+    text: "rgb(0, 0, 0)"
     name: "rgb(43, 106, 69)"
     connections: "rgb(0, 0, 0)"
     section_titles: "rgb(43, 106, 69)"
     links: "rgb(43, 106, 69)"
-    footer: "rgb(68, 69, 84)"
+    last_updated_date_and_page_numbering: "rgb(68, 69, 84)"
   page:
     size: a4
     show_footer: false
