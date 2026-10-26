@@ -7,8 +7,6 @@ cv:
   social_networks:
   - network: GitHub
     username: jscanales
-  - network: LinkedIn
-    username: jorge-s%C3%A1nchez-canales-38232123a
   sections:
     Education:
     - institution: Hertie School, Centre for Sustainability
@@ -17,19 +15,19 @@ cv:
       location: Berlin, Germany
       start_date: 2024-02
       highlights:
-      - 'Supervisor: Prof. Lion Hirth.'
-      - 'Research on electricity markets: market power, demand response and subsidy design.'
-      - Contributing to the projects Ariadne II and Machine Learning in Electricity Market Research (ML-Strom).
+      - 'Supervisor: Prof. Lion Hirth. Expected completion: January 2027'
+      - 'Research on electricity markets: market power, demand response and subsidy design'
+      - Contributing to the projects Ariadne II and Machine Learning in Electricity Market Research (ML-Strom)
     - institution: Hertie School
-      area: Public Policy (concentration in Policy Analysis)
+      area: Policy Analysis
       degree: Master of Public Policy
       location: Berlin, Germany
       start_date: 2021
       end_date: 2023
       highlights:
-      - 'Average grade: 1.3 (German scale, where 1.0 is the best).'
-      - Specialization in sustainability and energy economics, with courses on Economic Growth and Climate Change, Net-Zero Energy Systems, Energy Economics, Electricity System Modelling and Electricity Market Design.
-      - 'Master thesis: Energy crises, price caps and side effects. A causal inference study of the Iberian cap on gas using OLS.'
+      - 'Average grade: 1.3 (German scale, where 1.0 is the best)'
+      - Specialization in sustainability and energy economics (electricity market design, electricity system modelling, net-zero energy systems)
+      - 'Master''s thesis: Energy crises, price caps and side effects. A causal inference study of the Iberian cap on gas using OLS'
     - institution: Universidad Carlos III de Madrid, Universitat Pompeu Fabra and Universidad Autónoma de Madrid
       area: Philosophy, Politics and Economics
       degree: Bachelor
@@ -37,70 +35,69 @@ cv:
       start_date: 2016
       end_date: 2020
       highlights:
-      - 'Average grade: 9.02/10 (Spanish scale).'
-      - Beca de Excelencia, Comunidad de Madrid (2019).
-      - With distinction in Research Methodologies for Political Science and Economic Sociology, among others.
+      - 'Average grade: 9.02/10 (Spanish scale)'
+      - Beca de Excelencia, Comunidad de Madrid (2019)
+      - With distinction in Research Methodologies for Political Science and Economic Sociology, among others
     Experience:
     - company: Barcelona School of Economics
       position: Visiting PhD student
       location: Barcelona, Spain
       start_date: 2026-09
       end_date: 2026-11
-      summary: 'Host: Prof. Mar Reguant.'
+      summary: 'Host: Prof. Mar Reguant'
     - company: Hertie School, Centre for Sustainability
       position: Research Assistant and Research Associate
       location: Berlin, Germany
       start_date: 2023-02
       end_date: 2024-02
-      summary: Supported the research of several PhD candidates in the field of electricity markets.
-      highlights:
-      - Discussed methodology and study design.
-      - Collected and transformed data from different databases.
-      - Designed and implemented statistical analyses in Python 3.
-      - Produced result visualizations and supported the writing of academic manuscripts.
+      summary: 'Supported the research of several PhD candidates in electricity markets: study design, data collection and statistical analysis in Python, and visualization of results'
     - company: Mercator Research Institute on Global Commons and Climate Change
       position: Research Assistant
       location: Berlin, Germany
       start_date: 2022-09
       end_date: 2023-07
-      summary: Meta-analyses of the empirical literature on electricity markets and behavioural interventions.
-      highlights:
-      - Performed systematic searches and selection of literature.
-      - Coded, extracted and standardized data from the relevant literature.
-      - Supported the synthesis of results, including analysis and visualization, and the writing of academic manuscripts.
+      summary: 'Meta-analyses of the empirical literature on electricity markets and behavioural interventions: systematic search, data extraction and synthesis of results'
     Teaching:
-    - label: Economic Growth and Climate Change
-      details: 'Teaching assistant, Master''s level, Hertie School. Spring 2024 (45 teaching hours). Instructor: Prof. Lion Hirth.'
-    - label: Energy Economics 1
-      details: 'Teaching assistant, Master''s level, Hertie School. Spring 2025, Spring 2026 and Fall 2026 (12 teaching hours per term). Instructor: Prof. Lion Hirth.'
-    - label: Energy Economics 2 (formerly Electricity Market Design)
-      details: 'Teaching assistant, Master''s level, Hertie School. Spring 2025 (as Electricity Market Design), Spring 2026 and Fall 2026 (12 teaching hours per term). Instructor: Prof. Lion Hirth.'
-    - label: Master's thesis advising
-      details: Co-advised six Master's theses at the Hertie School (three in 2024-25 and three in 2025-26), with Prof. Lion Hirth as official supervisor.
+    - company: Hertie School
+      position: 'Teaching Assistant, Master''s level (instructor: Prof. Lion Hirth)'
+      location: Berlin, Germany
+      start_date: 2024-02
+      highlights:
+      - 'Economic Growth and Climate Change: Spring 2024 (45 teaching hours)'
+      - 'Energy Economics 1: Spring 2025, Spring 2026, Fall 2026 (12 teaching hours per term)'
+      - 'Energy Economics 2, formerly Electricity Market Design: Spring 2025, Spring 2026, Fall 2026 (12 teaching hours per term)'
+    - company: Hertie School
+      position: 'Co-advisor of Master''s theses (official supervisor: Prof. Lion Hirth)'
+      location: Berlin, Germany
+      highlights:
+      - 'Six theses: three in 2024–25 and three in 2025–26'
+      date: 2024 – 2026
     Publications:
     - title: An empirical estimate of the electricity supply curve from market outcomes
       authors:
-      - Jorge Sánchez Canales
+      - Jorge Sánchez Canales*
       - Alice Lixuan Xu
       - Chiara Fusar Bassini
       - Lynn H. Kaack
       - Lion Hirth
       journal: Energy Economics, 161, 109523
-      doi: 10.1016/j.eneco.2026.109523
       date: 2026-09
+      link_label: DOI
+      link_url: https://doi.org/10.1016/j.eneco.2026.109523
     - title: Revealing the empirical flexibility of gas units through deep clustering
       authors:
-      - Chiara Fusar Bassini
+      - Chiara Fusar Bassini*
       - Alice Lixuan Xu
       - Jorge Sánchez Canales
       - Lion Hirth
       - Lynn H. Kaack
       journal: ECML PKDD 2025 Proceedings, Springer Lecture Notes in Computer Science
-      url: https://arxiv.org/abs/2504.16943
       date: 2025-09
+      link_label: arXiv
+      link_url: https://arxiv.org/abs/2504.16943
     - title: 'Behavioral, Information, and Monetary Interventions to Reduce Energy Consumption in Households: A Living Systematic Review and Network Meta-Analysis'
       authors:
-      - Tarun M. Khanna
+      - Tarun M. Khanna*
       - Diana Danilenko
       - Qianyi Wang
       - Luke A. Smith
@@ -113,45 +110,49 @@ cv:
       - Julian H. Elliott
       - Jan C. Minx
       journal: Campbell Systematic Reviews, 21(4), cl2.70070
-      doi: 10.1002/cl2.70070
       date: 2025-12
+      link_label: DOI
+      link_url: https://doi.org/10.1002/cl2.70070
     Revise and Resubmit:
     - title: Identifying elasticities in autocorrelated time series using causal mechanism graphs
       authors:
       - Lion Hirth
       - Jonas Peters
       - Oliver Ruhnau
-      - Jorge Sánchez Canales
+      - Jorge Sánchez Canales*
       - Felix Schur
       - Raffaele Sgarlato
       - Silvana Tiedemann
       journal: Revise and resubmit at Econometrica
-      url: https://arxiv.org/abs/2409.15530
-      date: 2026
+      date: 2026-10
+      link_label: arXiv
+      link_url: https://arxiv.org/abs/2409.15530
     - title: Market power abuse in wholesale electricity markets
       authors:
-      - Alice Lixuan Xu
+      - Alice Lixuan Xu*
       - Jorge Sánchez Canales
       - Chiara Fusar Bassini
       - Lynn H. Kaack
       - Lion Hirth
       journal: Revise and resubmit at Energy Economics
-      url: https://arxiv.org/abs/2506.03808
       date: 2025-06
+      link_label: arXiv
+      link_url: https://arxiv.org/abs/2506.03808
     Working Papers:
     - title: 'De-risking renewable energy investments: Assessing contract design and project finance using operational wind park data'
       authors:
-      - Jorge Sánchez Canales
+      - Jorge Sánchez Canales*
       - Lion Hirth
       journal: Working paper
-      url: https://arxiv.org/abs/2605.23400
       date: 2026-05
+      link_label: arXiv
+      link_url: https://arxiv.org/abs/2605.23400
     Work in Progress:
     - name: 'Demand response with behind-the-meter assets: what can we learn?'
-      summary: Draft in progress.
+      summary: Draft in progress
     Skills:
     - label: Programming
-      details: Python 3 (advanced), Pyomo (intermediate)
+      details: Python 3 (advanced), Pyomo (intermediate), Java and C# (working knowledge)
     - label: Office
       details: Microsoft Word, Excel and PowerPoint
     Languages:
