@@ -1,0 +1,32 @@
+/*******************************************************************************
+ * Local customizations (loaded last from assets/css/main.scss)
+ ******************************************************************************/
+
+// Smaller base font size: everything sized in rem scales with this.
+html {
+  font-size: 13px;
+}
+
+// Extra breathing room at the sides on small screens.
+// (On wide screens the margins come from `max_width` in _config.yml.)
+.container {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+// Subtitle under the name on the About page: lighter, grey, slightly smaller
+// and letter-spaced so it reads as a label rather than as body text.
+p.desc {
+  color: var(--global-text-color-light);
+  font-size: 0.95rem;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+}
+
+// Publications page: year headings were very light grey on a hairline.
+// Use a stronger grey for the year and a slightly thicker separator.
+.publications h2.bibliography {
+  color: var(--global-text-color-light);
+  font-weight: 500;
+  border-top: 2px solid var(--global-divider-color);
+}

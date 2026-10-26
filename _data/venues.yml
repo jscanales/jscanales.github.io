@@ -7,3 +7,19 @@
 
 "Vision":
   color: "#009f36"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"Energy Econ.":
+  url: https://www.sciencedirect.com/journal/energy-economics
+  color: "#1f6f8b"
+
+"Campbell":
+  url: https://onlinelibrary.wiley.com/journal/18911803
+  color: "#6a4c93"
+
+"ECML PKDD":
+  url: https://ecmlpkdd.org/
+  color: "#c8641e"
